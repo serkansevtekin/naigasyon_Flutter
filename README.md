@@ -1,5 +1,5 @@
 # navigasyon_islemleri (Eğitim Amaçlı)
-
+Amaç: Flutter’da navigation yapısını öğrenmek.
 Navigasyon Islmeleri
 
 ## Getting Started
