@@ -1,4 +1,4 @@
-# navigasyon_islemleri
+# navigasyon_islemleri (Eğitim Amaçlı)
 
 Navigasyon Islmeleri
 
