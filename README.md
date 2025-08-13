@@ -1,6 +1,5 @@
-# navigasyon_islemleri (Eğitim Amaçlı)
-Amaç: Flutter’da navigation yapısını öğrenmek.
-Navigasyon Islmeleri
+# navigation operations (For Educational Purposes)
+Purpose: To learn the navigation structure in Flutter. Navigation Processes
 
 ## Getting Started
 
